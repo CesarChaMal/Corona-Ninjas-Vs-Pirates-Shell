@@ -1,0 +1,2 @@
+-- FILE: main.lua
+-- DESCRIPTION: start the app, declare some variables, and setup the player save file
